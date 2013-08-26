@@ -1,5 +1,5 @@
 public class MaxVariablesDemo {
-  public ststic void main(String[]args) {
+  public static void main(String[]args) {
     //integers
     byte largestByte     = Byte.MAX_VALUE;
     short largestShort   = Short.MAX_VALUE;
